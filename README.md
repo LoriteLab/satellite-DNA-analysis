@@ -1,2 +1,2 @@
-# satellite-DNA-amalysis
+# satellite-DNA-analysis
 scripts used for satDNA analysis
